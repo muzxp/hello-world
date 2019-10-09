@@ -1,4 +1,4 @@
 # hello-world
-This is my first repositor
-Y
+This is my first repository
 New positions always start from debt.
+Hello
